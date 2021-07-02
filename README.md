@@ -57,6 +57,16 @@ Create a program that:
 • Output: "With 100$ you can buy: 2 Bitcoins, 4 Ethereum, and 10 Litecoins"
 (Warning! Τhe prices are made up for exercise purposes)
 
+# 10.
 
+Create a program that prints the last digit of a given integer
+Create a program that:
+
+1. Reads the integer
+2. Prints the last digit
+
+Warning! Do not use the programming language MAGIC. After you complete the exercise feel free to do so.
+Warning! Don't try to convert the number into string etc.
+Warning! For this problem it's ok after spending some time to look for the solution.
 
 
